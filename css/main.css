@@ -4,10 +4,11 @@ main {
   justify-content: center;
   align-items: center;
   gap: 5px;
-  margin-top: 15px;
 }
 
 #timer {
+  margin-top: -50px;
+  margin-bottom: 10px;
   font-size: large;
   font-weight: bold;
 }
