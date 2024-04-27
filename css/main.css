@@ -7,6 +7,11 @@ main {
   margin-top: 15px;
 }
 
+#timer {
+  font-size: large;
+  font-weight: bold;
+}
+
 .board-row {
   display: flex;
   justify-content: center;
@@ -21,4 +26,6 @@ main {
   border: 2px solid #c8c8c8;
   width: 60px;
   height: 60px;
+  font-size: 30px;
+  font-weight: bold;
 }
